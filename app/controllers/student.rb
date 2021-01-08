@@ -1,2 +1,2 @@
-class Student < ApplicationController
+class StudentsController < ApplicationController
 end
